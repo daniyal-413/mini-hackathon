@@ -6,6 +6,7 @@
     font-family: "Outfit", sans-serif;
 }
 
+
 .nav-sec-1>i {
     color: grey;
     transition: 200ms ease-in-out;
@@ -29,6 +30,10 @@
     font-size: 0.80rem;
 }
 
+.second-header {
+    z-index: 999;
+}
+
 .cs-btn:hover {
     border: 1px solid grey;
 }
@@ -47,7 +52,7 @@
 }
 
 .banner-img {
-    background-image: url(/images/home-banner.jpg);
+    background-image: url(../images/home-banner.jpg);
     width: 100%;
     height: 100vh;
     background-position: center;
