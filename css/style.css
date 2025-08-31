@@ -158,11 +158,26 @@
     margin: 70px auto;
 }
 
-.ft-dt-section>p{
+.ft-dt-section>p {
     color: grey;
 }
-.ft-input{
+
+.ft-dt-section>h4 {
+    color: #FBB703;
+}
+
+.ft-input {
     border: none;
     border-radius: 100px;
     font-size: 0.85rem;
+}
+
+.ft-dt-section>i {
+    transition: 200ms ease-in-out;
+    cursor: pointer;
+}
+
+.ft-dt-section>i:hover {
+    color: #FBB703 !important;
+    transform: translate(0, -2px);
 }
