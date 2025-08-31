@@ -194,3 +194,12 @@
 .testi-sec {
     transition: 200ms ease-in-out;
 }
+
+.img-opacity{
+    opacity: 0.5;
+    transition: 400ms ease-in-out;
+}
+
+.img-opacity:hover{
+    opacity: 1;
+}
