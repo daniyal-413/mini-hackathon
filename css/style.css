@@ -186,3 +186,11 @@
     color: #FBB703 !important;
     transform: translate(0, -2px);
 }
+
+.testi-sec:hover {
+    color: #FBB703;
+}
+
+.testi-sec {
+    transition: 200ms ease-in-out;
+}
