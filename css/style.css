@@ -157,3 +157,12 @@
 .featuredSection {
     margin: 70px auto;
 }
+
+.ft-dt-section>p{
+    color: grey;
+}
+.ft-input{
+    border: none;
+    border-radius: 100px;
+    font-size: 0.85rem;
+}
